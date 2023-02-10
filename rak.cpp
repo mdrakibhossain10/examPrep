@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-cout<<"this is for learning."<<endl;
+  int a,b,c;
+  cin>>a>>b;
+  c = a + b;
+cout<<"The sum of two number is : "<<c<<endl;
 return 0;
 }
